@@ -29,7 +29,7 @@ else{
 
 }
 ```
-|[see results]()|
+|[see results](https://acquiredevs.github.io/javascript-tutorial-3/)|
 |---|
 
 > **In Javascript values around 3 power 1000 is considered as infinity In the above code A will return to infinity and  b will return 1.0715086071862673e+301**
@@ -52,7 +52,7 @@ if(m===undefined){
     document.body.innerHTML+='m is undefined'
 }
 ```
-
+|[check results](https://acquiredevs.github.io/javascript-tutorial-3/)|
 ---
 - **GlobalThis** 
 >**The global globalThis property contains the global this value, which is akin to the global object.**
