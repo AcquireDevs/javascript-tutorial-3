@@ -53,6 +53,7 @@ if(m===undefined){
 }
 ```
 |[check results](https://acquiredevs.github.io/javascript-tutorial-3/)|
+|---|
 ---
 - **GlobalThis** 
 >**The global globalThis property contains the global this value, which is akin to the global object.**
