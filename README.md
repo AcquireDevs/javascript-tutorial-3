@@ -69,7 +69,7 @@ console.log(globalThis)
 ---
 
 
-|[next](https://github.com/AcquireDevs/javascript-tutorial-3)|
+|[next](https://github.com/AcquireDevs/javascript-tutorial-4)|
 |---|
 
 
